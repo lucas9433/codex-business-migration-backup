@@ -6,6 +6,8 @@ This repository is a migration backup for moving from ChatGPT Business + Codex t
 - `MIGRATION_PROTOCOL.md` - step-by-step migration flow
 - `BACKUP_CHECKLIST.md` - what to back up before canceling Business
 - `WORKSPACE_INVENTORY.md` - inventory template for GPTs, projects, prompts, files, and integrations
+- `ENVIRONMENT_REPLICATION.md` - current environment snapshot and restore order
+- `RECONNECTION_CHECKLIST.md` - final reconnect and validation checklist
 
 ## Rules
 - Do not store passwords or raw OAuth tokens here.
